@@ -2,6 +2,8 @@
 
 This repository is a **Workbook Template Repository** (click the green *Use this template* button above) containing demos, tutorials, and practice materials. You can find a list of the materials in the [**src folder**](./src/ReadMe.md).
 
+> Do **not** store any assignments or labs or quizzes in this repository!
+
 Additionally, you can find online notes at the course's [Moodle site](https://moodle.nait.ca) and on the unofficial [website notes](https://cpsc-1517.github.io). Also be sure to checkout out the topical [**Learning Outcomes**](https://cpsc-1517.github.io/about/LOGs.html) used in class.
 
 ----
