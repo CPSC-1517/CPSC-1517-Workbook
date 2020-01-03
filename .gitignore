@@ -1,5 +1,6 @@
 # General folder for non-trackable info
 [Nn]o[Tt]rack/
+[Rr]n[Dd]/
 
 # VuePress
 .vuepress/dist/
